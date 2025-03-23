@@ -1,0 +1,7 @@
+pandas
+numpy
+google-generativeai
+PyPDF2
+matplotlib
+seaborn
+ipython
